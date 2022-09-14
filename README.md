@@ -1,4 +1,4 @@
-# Merstro
+# FinTech App
 
 A new Flutter project.
 
